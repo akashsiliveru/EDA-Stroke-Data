@@ -3,9 +3,7 @@
 ##  Project Overview
 
 Stroke is one of the leading causes of death and long-term disability worldwide. Early identification of risk factors can help in prevention and treatment.
-
 This project performs **Exploratory Data Analysis (EDA)** on a stroke dataset to identify important patterns, relationships, and risk factors that may influence the occurrence of stroke.
-
 The analysis focuses on understanding how variables such as **age, hypertension, heart disease, glucose levels, BMI, smoking status, and lifestyle factors** relate to stroke occurrence.
 
 ##  Problem Statement
